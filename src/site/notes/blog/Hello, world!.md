@@ -27,4 +27,3 @@ Good night 💤
 
 ###### Originally written: 2024-06-18
 ###### Last modified: 2024-06-18
-[[blog/index\|Blog Home]]
